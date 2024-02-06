@@ -30,7 +30,7 @@ Here are the operations I made on the data to get a cleaned and usable dataset:
 
 ## Summary of Findings
 
-![graphics](./images/Bakery sales Insights.png)
+![Bakery sales Insights graphics](./images/BakerySalesInsights.png)
 
 ### profile during time of day
 - No sales between 2:30pm and 3:30pm. Maybe the bakery is closed during this time.
