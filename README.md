@@ -30,6 +30,8 @@ Here are the operations I made on the data to get a cleaned and usable dataset:
 
 ## Summary of Findings
 
+![graphics](./images/Bakery sales Insights.png)
+
 ### profile during time of day
 - No sales between 2:30pm and 3:30pm. Maybe the bakery is closed during this time.
 - Most of the sales are done during the morning or between 4:30pm-6:30pm
