@@ -1,10 +1,4 @@
-# Project Name
-
-French Bakery Sales Analysis
-
-## Context
-
-
+# French Bakery Sales Analysis
 
 ## Overview
 
